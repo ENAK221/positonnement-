@@ -1,0 +1,318 @@
+
+.coul1{
+    background: hsl(82, 75%, 50%);
+    padding: 30px;
+    width: 500px;
+    height: 190px;
+    border: 2px solid black;
+}
+.coul2{
+    background: blueviolet ;
+    padding: 20px;
+    width: 450px;
+    height: 150px;
+     border: 2px solid black;
+
+}
+.coul3{
+    background: salmon;
+    padding: 30px;
+    width: 390px;
+    height: 90px;
+     border: 2px solid black;
+
+
+}
+.coul4{
+    background: hsl(82, 75%, 50%);
+    padding: 30px;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    top:20px ;
+    left: 100px ;
+     border: 2px solid black;
+
+}
+.coul5{
+    background: rgb(116, 10, 216);
+    position: relative;
+    padding: 32px;
+    width: 280px;
+    height: 90px;
+    top: 10px;
+    left: 120px;
+    border: 2px solid black;
+}
+.coul6{
+    background: salmon;
+    position:relative;
+    padding: 30px;
+    width: 190px;
+    height: 10px;
+    top:10px ;
+    right: 210px;
+    border: 2px solid black;
+}
+.coul7{
+    background:hsl(82, 75%, 50%) ;
+    padding: 30px;
+    width: 500px;
+    height: 190px;
+    position: relative;
+
+}
+.coul8{ 
+    border: 2px solid black;
+    background: rgb(116, 10, 216);
+    padding: 20px;
+    width: 450px;
+    height: 150px;
+    position: relative;
+
+
+
+}
+.coul9{
+    background: salmon;
+    position: relative;
+    width: 50px;
+    height: 50px; 
+    left: 180px;
+    top: 210px; 
+    border: 2px solid black;
+
+}
+.coul10{ 
+    position: relative;
+    background: rgb(142, 179, 201);
+    width: 570px;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.coul11{
+    position: absolute;
+    background: hsl(82, 75%, 50%) ;
+    width: 100px;
+    height: 90px;
+    left: 220px;
+    top: 100px;
+    border: 2px solid black;
+
+
+}
+
+.coul12{
+    position:absolute;
+    background: rgb(116, 10, 216);
+    width: 80px;
+    height: 70px;
+    top: 10px;
+    right: 10px; 
+    border: 2px solid black;
+
+
+
+}
+.coul13{
+    position: absolute;
+    top: 100px;
+    width: 50px;
+    height: 40px;
+    background: salmon;
+    left: 100px; 
+    border: 2px solid black;
+
+
+}
+
+.coul14{ 
+    border: 2px solid black;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: lightblue;
+    border: 2px solid rgb(0, 0, 0);
+  }
+
+  .coul15{
+    position: absolute;
+    width: 120px;
+    height: 120px; 
+    border: 2px solid black;
+    box-sizing: border-box;
+    background:hsl(82, 75%, 50%); 
+    border: 2px solid black;
+
+  }
+
+  .coul16 {
+    background:rgb(116, 10, 216);
+    top: 0px;
+    left: 150px;
+    width: 120px;
+    height: 115px;
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid black;
+
+  }
+
+  .coul17 {
+    background: salmon;
+    left: 10px;
+    width: 120px;
+    height: 120px;
+    bottom: 20px;
+    position: absolute;
+    border: 2px solid rgb(0, 0, 0); 
+    border: 2px solid black;
+
+  }
+
+  .coul18{
+    background: yellow;
+    position:absolute;
+    bottom: 20px;
+    left: 160px;
+    width: 120px;
+    height: 120px;
+    border: 2px solid rgb(0, 0, 0); 
+    border: 2px solid black;
+
+
+  }
+
+.coul19{ 
+    border: 2px solid black;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: lightblue;
+    border: 2px solid rgb(0, 0, 0);
+  }
+
+  .coul20{
+    position: absolute;
+    width: 120px;
+    height: 120px; 
+    border: 2px solid black;
+    box-sizing: border-box;
+    background:hsl(82, 75%, 50%); 
+    border: 2px solid black;
+
+  }
+
+  .coul21 {
+    background:rgb(116, 10, 216);
+    top: 0px;
+    left: 150px;
+    width: 120px;
+    height: 115px;
+    position:relative;
+    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid black;
+
+  }
+
+  .coul22 {
+    background: salmon;
+    left: 10px;
+    width: 120px;
+    height: 120px;
+    bottom: 20px;
+    position: absolute;
+    border: 2px solid rgb(0, 0, 0); 
+    border: 2px solid black;
+
+  }
+
+  .coul23{
+    background: yellow;
+    position:absolute;
+    bottom: 20px;
+    left: 160px;
+    width: 120px;
+    height: 120px;
+    border: 2px solid rgb(0, 0, 0); 
+    border: 2px solid black;
+
+  }
+
+ #carbleu{
+   
+    left: 65px;
+    top: 30px;
+    z-index: 3;
+ }
+ #carorang{
+    left: 139px;
+    bottom: 63px;
+    z-index: 1;
+ }
+ /*style position absolue , relative  et z-index figure 6*/
+#carbleux{
+    top: 18px;
+    left: 63px;
+    z-index: 2;
+}
+#carorang{
+    bottom: 70px;
+    left: 123px;
+    z-index: 1;
+}
+.content>div{
+    margin: 10px;
+    padding: 35px;
+    border: 1px solid black;
+}
+/*style float  figure 7 */
+.divflot {
+    width: 18%;
+    border: 1px solid black;
+    background-color: lightblue;
+    margin-bottom: 100%;
+    padding: 41px;
+    position: relative;
+    overflow: hidden;
+}
+.divflot > div {
+    margin: 0;
+    border: 1px solid black;
+}
+.carreGren {
+    background-color: green;
+    padding: 35px;
+    float: left;
+}
+.carreBleu {
+    background-color: blue;
+    padding: 35px;
+    float: left;
+}
+.carreOrange {
+    background-color: orange;
+    padding: 35px;
+    clear: both; /* S'assure qu'il soit sur une nouvelle ligne */
+}
+.carreYellow {
+    background-color: yellow;
+    padding: 35px;
+    float: right;
+}
+.carreBlanc {
+    background-color: burlywood;
+    padding: 35px;
+    float: right;
+}
+.exo8{
+    bottom: 1500px;
+    position: relative;
+}
+
+ 
